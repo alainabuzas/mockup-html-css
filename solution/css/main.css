@@ -3,6 +3,11 @@
      max-width: 900px;
  }
  
+ body {
+     border-left: 10px solid #ccc;
+     padding: 3em;
+ }
+ 
  h1 a {
      color: #FED673;
      text-decoration: none;
